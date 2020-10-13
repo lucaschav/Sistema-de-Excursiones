@@ -1,0 +1,13 @@
+F:\visual studio\excursion system\ex.system\ex.system\bin\Debug\netcoreapp3.1\ex.system.exe
+F:\visual studio\excursion system\ex.system\ex.system\bin\Debug\netcoreapp3.1\ex.system.deps.json
+F:\visual studio\excursion system\ex.system\ex.system\bin\Debug\netcoreapp3.1\ex.system.runtimeconfig.json
+F:\visual studio\excursion system\ex.system\ex.system\bin\Debug\netcoreapp3.1\ex.system.runtimeconfig.dev.json
+F:\visual studio\excursion system\ex.system\ex.system\bin\Debug\netcoreapp3.1\ex.system.dll
+F:\visual studio\excursion system\ex.system\ex.system\bin\Debug\netcoreapp3.1\ex.system.pdb
+F:\visual studio\excursion system\ex.system\ex.system\obj\Debug\netcoreapp3.1\ex.system.csprojAssemblyReference.cache
+F:\visual studio\excursion system\ex.system\ex.system\obj\Debug\netcoreapp3.1\ex.system.AssemblyInfoInputs.cache
+F:\visual studio\excursion system\ex.system\ex.system\obj\Debug\netcoreapp3.1\ex.system.AssemblyInfo.cs
+F:\visual studio\excursion system\ex.system\ex.system\obj\Debug\netcoreapp3.1\ex.system.csproj.CoreCompileInputs.cache
+F:\visual studio\excursion system\ex.system\ex.system\obj\Debug\netcoreapp3.1\ex.system.dll
+F:\visual studio\excursion system\ex.system\ex.system\obj\Debug\netcoreapp3.1\ex.system.pdb
+F:\visual studio\excursion system\ex.system\ex.system\obj\Debug\netcoreapp3.1\ex.system.genruntimeconfig.cache
